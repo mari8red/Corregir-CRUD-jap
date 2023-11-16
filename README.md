@@ -1,7 +1,5 @@
 # CRUD Server
 
-Trabajo en equipo
-
 Para ejecutar el proyecto recuerda primero instalar las dependencias con el comando:
     npm install
 
